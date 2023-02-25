@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Fancy";
+    src: local("LambencyRegular"),
+        url("../fonts/LambencyRegular.ttf") format("truetype");
+}
+@import "./homepage.scss";
+@import "./base.scss";
+@import "./details.scss";
+@import "./gifts.scss";
