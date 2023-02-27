@@ -10,26 +10,16 @@ export default function Gifts() {
             </div>
             <div className='information'>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Sit perferendis, expedita sed ratione cum,
-                    veritatis dicta amet iste vel eius aut animi esse laborum,
-                    recusandae repellendus dolores deserunt minima et architecto!
-                    Aut provident non voluptate.
-                    Delectus qui quia dicta cupiditate expedita,
-                    nihil laborum fugit veniam perferendis laboriosam in soluta
-                    doloribus,
-                    quisquam tenetur, facilis cum non asperiores beatae saepe a?
-                    Debitis sunt repudiandae, eveniet facilis velit a nobis harum,
-                    magni fugiat saepe sit animi magnam facere ullam,
-                    qui placeat distinctio expedita assumenda iste enim corporis.
-                    Tenetur odit quo fugiat error quis cupiditate facilis,
-                    voluptatum nostrum nesciunt illum enim sit voluptate cum modi
-                    reprehenderit ipsa totam corporis aspernatur rem eum maiores
-                    id quam in. Repellat ullam alias quidem consequuntur quos
-                    sequi eaque rerum aspernatur aut provident dicta dolore
-                    voluptate, incidunt maxime.
+                We are excited to see you at the wedding and that is more than enough of a
+                gift to be celebrating with those who love us most. And we are excited to see what God has for
+                us, whatever that may be. If you wish to support us as we step into the next chapter of our lives
+                you may donate however much you wish and we are deeply grateful for your support!
                 </p>
-                <h1>Money things</h1>
+                <h2>monetary gifts can be sent through:</h2>
+                <p>
+                    check/cash gifts in the mail written out to olivia chapman and mailed to:
+                    3756 S 890 E washington utah 84780
+                </p>
             </div>
         </div>
     )

@@ -1,20 +1,4 @@
 .details {
-    .back-button {
-        color: black;
-        text-decoration: none;
-        font-size: 3em;
-        font-family:'Courier New', Courier, monospace;
-        font-weight: 900;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        width: 15%;
-        border-bottom: 1px solid rgb(219, 219, 200);
-        border-right: 1px solid rgb(219, 219, 200);
-        &:hover{
-            background-color: rgb(219, 219, 200);
-        }
-    }
     .title {
         margin: -20px 0px;
         display: flex;
@@ -29,5 +13,12 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
+
+        .wrapper{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
     }
 }
