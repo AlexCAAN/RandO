@@ -8,6 +8,7 @@ body{
 }
 
 .back-button {
+    position: fixed;
     color: black;
     text-decoration: none;
     font-size: 3em;
@@ -16,10 +17,26 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-top: 25px;
     width: 15%;
     border-bottom: 1px solid rgb(219, 219, 200);
     border-right: 1px solid rgb(219, 219, 200);
     &:hover{
         background-color: rgb(219, 219, 200);
     }
+}
+
+a {
+    text-decoration: none;
+    color: unset;
+}
+
+.title {
+    padding-top: 50px;
+    margin: -20px 0px;
+    display: flex;
+    justify-content: center;
+    color: #5f7462;
+    font-size: 2em;
+    font-family: fancy, cursive;
 }

@@ -1,0 +1,14 @@
+.story{
+    .information{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 5%;
+        text-align: center;
+
+        .sub-header{
+            font-weight: 600;
+        }
+    }
+}
