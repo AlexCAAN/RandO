@@ -19,7 +19,7 @@ export default function Details() {
                     <h2>Address:</h2>
                     <div className='content'>
                         <a href='https://goo.gl/maps/yxry9B95b7RWJoDv6' rel="noreferrer" target='_blank' className='address'>
-                            <p>Cavanacaw, St Johnston, Co. Donegal, F93 XP82, Ireland</p>
+                            <p>Cavanacaw, St Johnston, Co. Donegal,<br/>F93 XP82, Ireland</p>
                         </a>
                         <div className='spacer20'/>
                         <iframe
@@ -43,8 +43,8 @@ export default function Details() {
                 <div className='contact wrapper'>
                     <h2>Contact:</h2>
                     <div className='content'>
-                        <p><strong>Olivia Chapman:</strong> Olivia.g.chapman1128@gmail.com</p>
-                        <p><strong>Ryan Boal:</strong> +353 087 461 1931</p>
+                        <p><strong>Olivia Chapman:</strong><br/> Olivia.g.chapman1128@gmail.com</p>
+                        <p><strong>Ryan Boal:</strong><br/> +353 087 461 1931</p>
                     </div>
                 </div>
             </div>
