@@ -43,6 +43,10 @@ export default function Details() {
                 <div className='contact wrapper'>
                     <h2>Contact:</h2>
                     <div className='content'>
+                        <p>
+                            if you are planning on attending the wedding please contact us as
+                            we have limited space at our venue
+                        </p>
                         <p><strong>Olivia Chapman:</strong><br/> Olivia.g.chapman1128@gmail.com</p>
                         <p><strong>Ryan Boal:</strong><br/> +353 087 461 1931</p>
                     </div>
@@ -51,3 +55,7 @@ export default function Details() {
         </div>
     )
 }
+
+<div>
+
+</div>
