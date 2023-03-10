@@ -16,9 +16,9 @@ export default function Home() {
             <Spacer50/>
 
             <div className='buttons'>
-                <NavLink to="/story" className="story button">
+                {/* <NavLink to="/story" className="story button">
                     <h1>Our Story</h1>
-                </NavLink>
+                </NavLink> */}
                 <Spacer50/>
                 <NavLink to="/details" className="details button">
                     <h1>Details</h1>
