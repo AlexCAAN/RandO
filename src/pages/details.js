@@ -34,10 +34,22 @@ export default function Details() {
                     </div>
                 </div>
                 <div className='date-time wrapper'>
-                    <h2>Date & Time:</h2>
+                    <h2>Date & Times:</h2>
                     <div className='content'>
                         <p>June 12th, 2023</p>
-                        <p>The Ceremony Starts at 1pm</p>
+                        <p><strong>14:00 pm</strong>- Wedding ceremony starts</p>
+                        <p><strong>15:00 pm</strong>- Tea & scones for guests</p>
+                        <p><strong>17:00 pm</strong>- Reception party starts</p>
+                        <p>~ Worship</p>
+                        <p>~ Appetizers served</p>
+                        <p>~ Wedding party speeches</p>
+                        <p><strong>18:00 pm</strong>- dinner is served</p>
+                        <p><strong>19:30 pm</strong>- Dessert</p>
+                        <p><strong>20:00 pm</strong>- Dance</p>
+                        <p>~ Bride & Groom (everyone dances)</p>
+                        <p>~ Father daughter dance</p>
+                        <p>~ Mother bride dance (everyone dances)</p>
+                        <p>~ Dance party, Baby!</p>
                     </div>
                 </div>
                 <div className='contact wrapper'>
